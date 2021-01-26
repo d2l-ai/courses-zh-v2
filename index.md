@@ -28,7 +28,7 @@ seo:
 
 <div style="clear: both;"></div>
 
-asdf <i class="fab fa-500px"></i> asfd
+
 
 {% if site.announcements %}
 {{ site.announcements.last }}
