@@ -1,0 +1,14 @@
+<div class="announcement">
+  <h2>{{ page.title }}</h2>
+  <span class="announcement-meta">
+    {% if page.date %}
+    {{ page.date | date: '%b %e' }}
+    &middot;
+    {% endif %}
+    {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %}
+    {{ minutes }} min read
+  </span>
+  <div>
+    {{ content }}
+  </div>
+</div>

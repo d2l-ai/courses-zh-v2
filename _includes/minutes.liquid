@@ -1,0 +1,20 @@
+{% capture _minutes_workspace %}
+  {% comment %}
+    Return the number of minutes between midnight and the given time string (e.g. '9:30 AM').
+
+    Parameters:
+      `time` (string): the time to convert.
+  {% endcomment %}
+
+  {% assign _time = include.time %}
+  {% assign _hhmm = _time | split: ' ' | first | split: ':' %}
+  {% assign _hours = _hhmm | first | to_integer %}
+  {% assign _minutes = _hhmm | last | to_integer %}
+  {% assign _ampm = _time | split: ' ' | last | upcase %}
+
+  {% if _ampm == 'AM' and _hours == 12 %}
+    {% assign _hours = _hours | minus: 12 %}
+  {% elsif _ampm == 'PM' and _hours != 12 %}
+    {% assign _hours = _hours | plus: 12 %}
+  {% endif %}
+{% endcapture %}{% assign _minutes_workspace = '' %}{{ _hours | times: 60 | plus: _minutes }}

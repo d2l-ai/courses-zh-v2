@@ -24,3 +24,52 @@ ga_tracking_anonymize_ip: true
 
 color_scheme: d2l
 
+
+tagline: 动手学深度学习在线课程
+description: 免费深度学习在线课程
+author: 李沐
+# baseurl: '/zh-v2' # the subpath of your site, e.g. /blog
+# url: 'https://courses.d2l.ai'
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag

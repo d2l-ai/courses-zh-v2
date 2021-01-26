@@ -1,0 +1,28 @@
+<div class="staffer">
+  {% if page.photo %}
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="">
+  {% endif %}
+  <div class="staffer-info">
+    <h3 class="staffer-name">
+      {% if page.website %}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {% else %}
+      {{ page.name }}
+      {% endif %}
+      {% if page.pronouns %}
+      <span class="staffer-pronouns">{{ page.pronouns }}</span>
+      {% endif %}
+    </h3>
+    {% if page.email %}
+    <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+    {% endif %}
+    {% if page.section %}
+    <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
+    {% endif %}
+    {% if page.office-hours %}
+    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
+    {% endif %}
+    {{ content }}
+  </div>
+  <div style="clear:both"></div>
+</div>
