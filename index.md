@@ -29,11 +29,11 @@ seo:
 <div style="clear: both;"></div>
 
 
-
 {% if site.announcements %}
 {{ site.announcements.last }}
 [所有公告](announcements.html){: .btn .fs-3 }
 {% endif %}
+
 
 
 
