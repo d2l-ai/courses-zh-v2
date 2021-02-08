@@ -67,6 +67,16 @@
     >dd {
       @extend %module-item;
 
+      a {
+        background-image: none;
+      }
+      i {
+        padding-right: 0.2em;
+        color: gray;
+        &:hover {
+          color: #2196f3;
+        }
+      }
       +dd {
         padding-top: 0;
       }

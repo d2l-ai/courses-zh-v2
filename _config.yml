@@ -1,4 +1,4 @@
-title: "动手学深度学习"
+title: "动手学深度学习课程"
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
@@ -36,7 +36,6 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 collections:
   staffers:
   modules:
-  schedules:
   announcements:
 
 # Default layouts for each collection type
@@ -52,11 +51,7 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
+      subpath: '/assets/pdfs/'
   - scope:
       path: ''
       type: announcements
@@ -70,6 +65,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-plugins:
-  - jekyll-seo-tag
