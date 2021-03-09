@@ -1,0 +1,209 @@
+[
+    {
+        "title":"Computational Performance",
+        "day_break":true,
+        "book":"chapter_computational-performance/index.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Compilers and Interpreters",
+        "day_break":false,
+        "book":"chapter_computational-performance/hybridize.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Asynchronous Computation",
+        "day_break":false,
+        "book":"chapter_computational-performance/async-computation.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Automatic Parallelism",
+        "day_break":false,
+        "book":"chapter_computational-performance/auto-parallelism.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Hardware",
+        "day_break":true,
+        "book":"chapter_computational-performance/hardware.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Training on Multiple GPUs",
+        "day_break":false,
+        "book":"chapter_computational-performance/multiple-gpus.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Concise Implementation for Multiple GPUs",
+        "day_break":false,
+        "book":"chapter_computational-performance/multiple-gpus-concise.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Parameter Servers",
+        "day_break":false,
+        "book":"chapter_computational-performance/parameterserver.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Computer Vision",
+        "day_break":true,
+        "book":"chapter_computer-vision/index.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Image Augmentation",
+        "day_break":false,
+        "book":"chapter_computer-vision/image-augmentation.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Fine-Tuning",
+        "day_break":false,
+        "book":"chapter_computer-vision/fine-tuning.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Object Detection and Bounding Boxes",
+        "day_break":true,
+        "book":"chapter_computer-vision/bounding-box.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Anchor Boxes",
+        "day_break":false,
+        "book":"chapter_computer-vision/anchor.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Multiscale Object Detection",
+        "day_break":false,
+        "book":"chapter_computer-vision/multiscale-object-detection.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"The Object Detection Dataset",
+        "day_break":true,
+        "book":"chapter_computer-vision/object-detection-dataset.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Single Shot Multibox Detection (SSD)",
+        "day_break":false,
+        "book":"chapter_computer-vision/ssd.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Region-based CNNs (R-CNNs)",
+        "day_break":false,
+        "book":"chapter_computer-vision/rcnn.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Semantic Segmentation and the Dataset",
+        "day_break":true,
+        "book":"chapter_computer-vision/semantic-segmentation-and-dataset.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Transposed Convolution",
+        "day_break":false,
+        "book":"chapter_computer-vision/transposed-conv.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Fully Convolutional Networks (FCN)",
+        "day_break":false,
+        "book":"chapter_computer-vision/fcn.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Neural Style Transfer",
+        "day_break":false,
+        "book":"chapter_computer-vision/neural-style.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Image Classification (CIFAR-10) on Kaggle",
+        "day_break":true,
+        "book":"chapter_computer-vision/kaggle-cifar10.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Dog Breed Identification (ImageNet Dogs) on Kaggle",
+        "day_break":false,
+        "book":"chapter_computer-vision/kaggle-dog.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    }
+]

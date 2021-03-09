@@ -67,6 +67,7 @@
 
     >dd {
       @extend %module-item;
+      
 
       a {
         background-image: none;
@@ -100,6 +101,7 @@
         }
 
         dd {
+          flex: 0 0 18%;
           margin: 0;
         }
       }

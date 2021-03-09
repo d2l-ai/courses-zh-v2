@@ -1,0 +1,74 @@
+[
+    {
+        "title":"Attention Mechanisms",
+        "day_break":true,
+        "book":"chapter_attention-mechanisms/index.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Attention Cues",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/attention-cues.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Attention Pooling: Nadaraya-Watson Kernel Regression",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/nadaraya-waston.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Attention Scoring Functions",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/attention-scoring-functions.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Bahdanau Attention",
+        "day_break":true,
+        "book":"chapter_attention-mechanisms/bahdanau-attention.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Multi-Head Attention",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/multihead-attention.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Self-Attention and Positional Encoding",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/self-attention-and-positional-encoding.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"Transformer",
+        "day_break":false,
+        "book":"chapter_attention-mechanisms/transformer.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    }
+]
