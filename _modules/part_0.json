@@ -2,7 +2,7 @@
     {
         "title":"课程安排",
         "day_break":true,
-        "slides":["part-01.pdf",7],
+        "slides":["part-01.pdf",6],
         "slides_video":"",
         "notebook":false,
         "notebook_video":"",
@@ -21,7 +21,7 @@
         "title":"安装",
         "day_break":false,
         "book":"chapter_installation/index.html",
-        "slides":["part-01.pdf",3],
+        "slides":["part-01.pdf",2],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -30,7 +30,7 @@
         "title":"数据操作",
         "day_break":false,
         "book":"chapter_preliminaries/ndarray.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -39,7 +39,7 @@
         "title":"数据预处理",
         "day_break":false,
         "book":"chapter_preliminaries/pandas.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -48,16 +48,17 @@
         "title":"线性代数",
         "day_break":true,
         "book":"chapter_preliminaries/linear-algebra.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",14],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
     },
     {
-        "title":"微分",
+        "title":"矩阵计算",
         "day_break":false,
         "book":"chapter_preliminaries/calculus.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",10],
+        "notebook": false,
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -66,16 +67,7 @@
         "title":"自动求导",
         "day_break":false,
         "book":"chapter_preliminaries/autograd.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "tag":""
-    },
-    {
-        "title":"概率",
-        "day_break":false,
-        "book":"chapter_preliminaries/probability.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",15],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -90,19 +82,18 @@
         "tag":""
     },
     {
-        "title":"线性神经网络",
-        "day_break":false,
-        "book":"chapter_linear-networks/index.html",
-        "slides":["part-0.pdf",0],
+        "title":"线性回归",
+        "day_break":true,
+        "book":"chapter_linear-networks/linear-regression.html",
+        "slides":["part-01.pdf",11],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
     },
     {
-        "title":"线性回归",
-        "day_break":true,
-        "book":"chapter_linear-networks/linear-regression.html",
-        "slides":["part-0.pdf",0],
+        "title":"基础优化方法",
+        "day_break":false,
+        "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
