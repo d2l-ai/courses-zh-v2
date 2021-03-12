@@ -11,14 +11,6 @@ aux_links_new_tab: true
 
 heading_anchors: true
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "在 GitHub 上编辑"
-gh_edit_repository: "https://github.com/mli/course-zh-v2" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-
 ga_tracking: UA-96378503-2
 ga_tracking_anonymize_ip: true
 

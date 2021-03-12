@@ -47,14 +47,17 @@ title: 深度学习基础
 
 3月28日
 
-: softmax回归
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression.html)
+: Softmax 回归
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_10.pdf)
+: 损失函数
+  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_11.pdf)
+  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/)
 : 图像分类数据集
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/image-classification-dataset.html)
   : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/image-classification-dataset.ipynb)
-: softmax回归的从零开始实现
+: Softmax 回归的从零开始实现
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)
-: softmax回归的简洁实现
+: Softmax 回归的简洁实现
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-concise.html)
 
 4月3日
@@ -67,10 +70,10 @@ title: 深度学习基础
 
 4月10日
 
+: 感知机
+  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_12.pdf)
 : 多层感知机
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/index.html)
-: 多层感知机
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_13.pdf)
   : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp.ipynb)
 : 多层感知机的从零开始实现
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html)
@@ -81,24 +84,28 @@ title: 深度学习基础
 
 4月11日
 
-: 模型选择、欠拟合和过拟合
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/underfit-overfit.ipynb)
-: 权重衰减
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/weight-decay.ipynb)
-: Dropout
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
-: 正向传播、反向传播和计算图
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/backprop.html)
+: 模型选择
+  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_14.pdf)
+  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/)
 
 4月17日
 
-: 数值稳定性和模型初始化
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html)
+: 欠拟合和过拟合
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_15.pdf)
+  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/underfit-overfit.ipynb)
+: 权重衰减
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_16.pdf)
+  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/weight-decay.ipynb)
+: Dropout
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_17.pdf)
+  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
+
+4月18日
+
+: 数值稳定性
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_18.pdf)
   : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb)
-: 环境和分布偏移
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/environment.html)
+: 模型初始化和激活函数
+  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_19.pdf)
 : 实战 Kaggle 比赛：预测房价
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html)

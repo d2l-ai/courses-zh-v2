@@ -5,6 +5,13 @@ title: 课程安排
 
 # 动手学深度学习在线课程
 
+<div class="responsive-video-container">
+
+<iframe src="//player.bilibili.com/player.html?aid=289532467&bvid=BV1if4y147hS&cid=309491732&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+</div> 
+
+
 不论是在学术突破还是在工业应用，
 深度学习是人工智能在近十年里进展最为迅速的领域。然而，深度学习模型复杂、参数繁多、而且新模型层出不穷，这给学习带来了难度。
 
@@ -42,11 +49,6 @@ title: 课程安排
 
 ## 课程安排
 
-<!-- <div class="responsive-video-container">
-
-<iframe src="//player.bilibili.com/player.html?aid=88928561&bvid=BV1T7411g7Ws&cid=151889932&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-</div> -->
 
 目前日程安排为暂定安排，会根据实际进度进行调整。部分内容暂时链接到英文版，中文版会随后更新。
 

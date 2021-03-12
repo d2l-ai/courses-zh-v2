@@ -117,10 +117,19 @@
         "tag":""
     },
     {
-        "title":"softmax回归",
+        "title":"Softmax 回归",
         "day_break":true,
         "book":"chapter_linear-networks/softmax-regression.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",10],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+    {
+        "title":"损失函数",
+        "day_break":false,
+        "book":"",
+        "slides":["part-01.pdf",7],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -135,7 +144,7 @@
         "tag":""
     },
     {
-        "title":"softmax回归的从零开始实现",
+        "title":"Softmax 回归的从零开始实现",
         "day_break":false,
         "book":"chapter_linear-networks/softmax-regression-scratch.html",
         "slides":["part-0.pdf",0],
@@ -144,7 +153,7 @@
         "tag":""
     },
     {
-        "title":"softmax回归的简洁实现",
+        "title":"Softmax 回归的简洁实现",
         "day_break":false,
         "book":"chapter_linear-networks/softmax-regression-concise.html",
         "slides":["part-0.pdf",0],
@@ -153,10 +162,9 @@
         "tag":""
     },
     {
-        "title":"多层感知机",
+        "title":"感知机",
         "day_break":true,
-        "book":"chapter_multilayer-perceptrons/index.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",10],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -165,7 +173,7 @@
         "title":"多层感知机",
         "day_break":false,
         "book":"chapter_multilayer-perceptrons/mlp.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",12],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -189,19 +197,29 @@
         "tag":""
     },
     {
-        "title":"模型选择、欠拟合和过拟合",
+        "title":"模型选择",
         "day_break":true,
-        "book":"chapter_multilayer-perceptrons/underfit-overfit.html",
-        "slides":["part-0.pdf",0],
+        "book":"",
+        "slides":["part-01.pdf",6],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
     },
     {
+        "title":"欠拟合和过拟合",
+        "day_break":true,
+        "book":"chapter_multilayer-perceptrons/underfit-overfit.html",
+        "slides":["part-01.pdf",9],
+        "slides_video":"",
+        "notebook_video":"",
+        "tag":""
+    },
+
+    {
         "title":"权重衰减",
         "day_break":false,
         "book":"chapter_multilayer-perceptrons/weight-decay.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -210,34 +228,24 @@
         "title":"Dropout",
         "day_break":false,
         "book":"chapter_multilayer-perceptrons/dropout.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
     },
     {
-        "title":"正向传播、反向传播和计算图",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/backprop.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "tag":""
-    },
-    {
-        "title":"数值稳定性和模型初始化",
+        "title":"数值稳定性",
         "day_break":true,
         "book":"chapter_multilayer-perceptrons/numerical-stability-and-init.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",9],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
     },
     {
-        "title":"环境和分布偏移",
+        "title":"模型初始化和激活函数",
         "day_break":false,
-        "book":"chapter_multilayer-perceptrons/environment.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-01.pdf",11],
         "slides_video":"",
         "notebook_video":"",
         "tag":""
@@ -250,6 +258,6 @@
         "slides_video":"",
         "notebook_video":"",
         "tag":""
-    }    
+    }
 ]
     

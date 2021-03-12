@@ -2,7 +2,7 @@
 title: 卷积神经网络
 ---
 
-4月18日
+4月24日
 
 : 深度学习计算
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_deep-learning-computation/index.html)
@@ -17,7 +17,7 @@ title: 卷积神经网络
 : 读写文件
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_deep-learning-computation/read-write.html)
 
-4月24日
+4月25日
 
 : GPU
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_deep-learning-computation/use-gpu.html)
@@ -27,17 +27,6 @@ title: 卷积神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/why-conv.html)
 : 图像卷积
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/conv-layer.html)
-
-4月25日
-
-: 填充和步幅
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/padding-and-strides.html)
-: 多输入多输出通道
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/channels.html)
-: 池化层
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/pooling.html)
-: 卷积神经网络（LeNet）
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/lenet.html)
 
 5月1日
 
@@ -49,6 +38,17 @@ title: 卷积神经网络
 
 5月8日
 
+: 填充和步幅
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/padding-and-strides.html)
+: 多输入多输出通道
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/channels.html)
+: 池化层
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/pooling.html)
+: 卷积神经网络（LeNet）
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/lenet.html)
+
+5月9日
+
 : 现代卷积神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html)
 : 深度卷积神经网络（AlexNet）
@@ -58,7 +58,7 @@ title: 卷积神经网络
 : 网络中的网络（NiN）
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-modern/nin.html)
 
-5月9日
+5月15日
 
 : 含并行连结的网络（GoogLeNet）
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-modern/googlenet.html)
