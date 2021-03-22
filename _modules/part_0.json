@@ -3,37 +3,37 @@
         "title":"课程安排",
         "day_break":true,
         "slides":["part-01.pdf",6],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1oX4y137bC",
         "notebook":false,
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },    
     {
         "title":"深度学习介绍",
         "day_break":false,
         "book":"chapter_introduction/index.html",
         "slides":["part-01.pdf",14],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1J54y187f9",
         "notebook_video":"",
-        "tag":""
+        "qa_video":"https://www.bilibili.com/video/BV1UK4y1U7P7"
     },
     {
         "title":"安装",
         "day_break":false,
         "book":"chapter_installation/index.html",
         "slides":["part-01.pdf",2],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV18p4y1h7Dr",
         "notebook_video":"",
-        "tag":""
+        "qa_video":"https://www.bilibili.com/video/BV1Jy4y1h7uB"
     },
     {
         "title":"数据操作",
         "day_break":false,
         "book":"chapter_preliminaries/ndarray.html",
         "slides":["part-01.pdf",5],
-        "slides_video":"",
-        "notebook_video":"",
-        "tag":""
+        "slides_video":"https://www.bilibili.com/video/BV1CV411Y7i4",
+        "notebook_video":"https://www.bilibili.com/video/BV1Rh411Q7mQ",
+        "qa_video":"https://www.bilibili.com/video/BV1sA411N7bY"
     },
     {
         "title":"数据预处理",
@@ -42,35 +42,43 @@
         "slides":["part-01.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"线性代数",
         "day_break":true,
         "book":"chapter_preliminaries/linear-algebra.html",
         "slides":["part-01.pdf",14],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1eK4y1U7Qy",
         "notebook_video":"",
-        "tag":""
+        "qa_video":"https://www.bilibili.com/video/BV1Np4y1a7AN"
     },
+    {
+        "title":"[补充] 按特定轴求和",
+        "day_break":false,
+        "slides":["part-01.pdf",0],
+        "slides_video":"https://www.bilibili.com/video/BV1dN411Q7RC",
+        "notebook_video":"",
+        "qa_video":""
+    },     
     {
         "title":"矩阵计算",
         "day_break":false,
         "book":"chapter_preliminaries/calculus.html",
         "slides":["part-01.pdf",10],
         "notebook": false,
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1eZ4y1w7PY",
         "notebook_video":"",
-        "tag":""
+        "qa_video":"https://www.bilibili.com/video/BV1pK4y1T7us"
     },
     {
         "title":"自动求导",
         "day_break":false,
         "book":"chapter_preliminaries/autograd.html",
         "slides":["part-01.pdf",15],
-        "slides_video":"",
-        "notebook_video":"",
-        "tag":""
+        "slides_video":"https://www.bilibili.com/video/BV1KA411N7Px",
+        "notebook_video":"https://www.bilibili.com/video/BV1yN411Q7Ww",
+        "qa_video":"https://www.bilibili.com/video/BV17A411N7nr"
     },
     {
         "title":"查阅文档",
@@ -79,7 +87,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"线性回归",
@@ -88,7 +96,7 @@
         "slides":["part-01.pdf",11],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"基础优化方法",
@@ -96,7 +104,7 @@
         "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"线性回归的从零开始实现",
@@ -105,7 +113,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"线性回归的简洁实现",
@@ -114,7 +122,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Softmax 回归",
@@ -123,7 +131,7 @@
         "slides":["part-01.pdf",10],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"损失函数",
@@ -132,7 +140,7 @@
         "slides":["part-01.pdf",7],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"图像分类数据集",
@@ -141,7 +149,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Softmax 回归的从零开始实现",
@@ -150,7 +158,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Softmax 回归的简洁实现",
@@ -159,7 +167,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"感知机",
@@ -167,7 +175,7 @@
         "slides":["part-01.pdf",10],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"多层感知机",
@@ -176,7 +184,7 @@
         "slides":["part-01.pdf",12],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"多层感知机的从零开始实现",
@@ -185,7 +193,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"多层感知机的简洁实现",
@@ -194,7 +202,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"模型选择",
@@ -203,7 +211,7 @@
         "slides":["part-01.pdf",6],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"欠拟合和过拟合",
@@ -212,7 +220,7 @@
         "slides":["part-01.pdf",9],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
 
     {
@@ -222,7 +230,7 @@
         "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Dropout",
@@ -231,7 +239,7 @@
         "slides":["part-01.pdf",5],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"数值稳定性",
@@ -240,7 +248,7 @@
         "slides":["part-01.pdf",9],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"模型初始化和激活函数",
@@ -248,7 +256,7 @@
         "slides":["part-01.pdf",11],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"实战 Kaggle 比赛：预测房价",
@@ -257,7 +265,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     }
 ]
     

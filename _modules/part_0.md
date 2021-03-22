@@ -5,60 +5,52 @@ title: 深度学习基础
 3月20日
 
 : 课程安排
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_1.pdf)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_1.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1oX4y137bC)
 : 深度学习介绍
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_introduction/index.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_2.pdf)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_introduction/index.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_2.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1J54y187f9) [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV1UK4y1U7P7) &nbsp;
 : 安装
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_installation/index.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_3.pdf)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_installation/index.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_3.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV18p4y1h7Dr) [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV1Jy4y1h7uB) &nbsp;
 : 数据操作
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/ndarray.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_4.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/ndarray.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/ndarray.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_4.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1CV411Y7i4)[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/ndarray.ipynb) &nbsp;  [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 代码](https://www.bilibili.com/video/BV1Rh411Q7mQ) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV1sA411N7bY) &nbsp;
 : 数据预处理
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/pandas.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/pandas.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/pandas.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/pandas.ipynb) &nbsp; 
 
 3月21日
 
 : 线性代数
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/linear-algebra.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_5.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/linear-algebra.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/linear-algebra.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_5.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1eK4y1U7Qy)[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/linear-algebra.ipynb) &nbsp;  [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV1Np4y1a7AN) &nbsp;
+: [补充] 按特定轴求和
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1dN411Q7RC)
 : 矩阵计算
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/calculus.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_6.pdf)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/calculus.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_6.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1eZ4y1w7PY) [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV1pK4y1T7us) &nbsp;
 : 自动求导
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/autograd.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_7.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/autograd.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/autograd.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_7.pdf) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 幻灯片 &nbsp;](https://www.bilibili.com/video/BV1KA411N7Px)[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/autograd.ipynb) &nbsp;  [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 代码](https://www.bilibili.com/video/BV1yN411Q7Ww) &nbsp; [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span> 问答](https://www.bilibili.com/video/BV17A411N7nr) &nbsp;
 : 查阅文档
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_preliminaries/lookup-api.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/lookup-api.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_preliminaries/lookup-api.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/lookup-api.ipynb) &nbsp; 
 
 3月27日
 
 : 线性回归
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_8.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_8.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/linear-regression.ipynb) &nbsp; 
 : 基础优化方法
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_9.pdf)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_9.pdf) &nbsp;
 : 线性回归的从零开始实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-scratch.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-scratch.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-scratch.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-scratch.ipynb) &nbsp; 
 : 线性回归的简洁实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-concise.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-concise.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-concise.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-concise.ipynb) &nbsp; 
 
 3月28日
 
 : Softmax 回归
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_10.pdf)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_10.pdf) &nbsp;
 : 损失函数
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_11.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_11.pdf) &nbsp;
 : 图像分类数据集
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/image-classification-dataset.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/image-classification-dataset.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/image-classification-dataset.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/image-classification-dataset.ipynb) &nbsp; 
 : Softmax 回归的从零开始实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-scratch.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/softmax-regression-scratch.ipynb) &nbsp; 
 : Softmax 回归的简洁实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-concise.html)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-concise.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_linear-networks/softmax-regression-concise.ipynb) &nbsp; 
 
 4月3日
 
@@ -71,41 +63,33 @@ title: 深度学习基础
 4月10日
 
 : 感知机
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_12.pdf)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_12.pdf) &nbsp;
 : 多层感知机
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_13.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_13.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp.ipynb) &nbsp; 
 : 多层感知机的从零开始实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-scratch.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-scratch.ipynb) &nbsp; 
 : 多层感知机的简洁实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-concise.html)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-concise.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-concise.html) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-concise.ipynb) &nbsp; 
 
 4月11日
 
 : 模型选择
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_14.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_14.pdf) &nbsp;
 
 4月17日
 
 : 欠拟合和过拟合
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_15.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/underfit-overfit.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_15.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/underfit-overfit.ipynb) &nbsp; 
 : 权重衰减
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_16.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/weight-decay.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_16.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/weight-decay.ipynb) &nbsp; 
 : Dropout
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_17.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_17.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb) &nbsp; 
 
 4月18日
 
 : 数值稳定性
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html) [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_18.pdf)
-  : [<span class="iconfont icon-jupyter"></span>](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html) &nbsp; [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_18.pdf) &nbsp;[<span class="iconfont icon-jupyter"></span> 代码](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb) &nbsp; 
 : 模型初始化和激活函数
-  : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_19.pdf)
+  : [<span class="iconfont icon-KeynoteOutline"></span> 幻灯片](assets/pdfs/part-0_19.pdf) &nbsp;
 : 实战 Kaggle 比赛：预测房价
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html) &nbsp;

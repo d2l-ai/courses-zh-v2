@@ -6,7 +6,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"序列模型",
@@ -15,7 +15,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"文本预处理",
@@ -24,7 +24,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"语言模型和数据集",
@@ -33,7 +33,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"循环神经网络",
@@ -42,7 +42,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"循环神经网络的从零开始实现",
@@ -51,7 +51,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"循环神经网络的简洁实现",
@@ -60,7 +60,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"通过时间反向传播",
@@ -69,6 +69,6 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     }
 ]

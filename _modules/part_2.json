@@ -6,7 +6,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Compilers and Interpreters",
@@ -15,7 +15,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Asynchronous Computation",
@@ -24,7 +24,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Automatic Parallelism",
@@ -33,7 +33,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Hardware",
@@ -42,7 +42,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Training on Multiple GPUs",
@@ -51,7 +51,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Concise Implementation for Multiple GPUs",
@@ -60,7 +60,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Parameter Servers",
@@ -69,7 +69,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Computer Vision",
@@ -78,7 +78,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Image Augmentation",
@@ -87,7 +87,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Fine-Tuning",
@@ -96,7 +96,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Object Detection and Bounding Boxes",
@@ -105,7 +105,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Anchor Boxes",
@@ -114,7 +114,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Multiscale Object Detection",
@@ -123,7 +123,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"The Object Detection Dataset",
@@ -132,7 +132,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Single Shot Multibox Detection (SSD)",
@@ -141,7 +141,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Region-based CNNs (R-CNNs)",
@@ -150,7 +150,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Semantic Segmentation and the Dataset",
@@ -159,7 +159,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Transposed Convolution",
@@ -168,7 +168,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Fully Convolutional Networks (FCN)",
@@ -177,7 +177,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Neural Style Transfer",
@@ -186,7 +186,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Image Classification (CIFAR-10) on Kaggle",
@@ -195,7 +195,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Dog Breed Identification (ImageNet Dogs) on Kaggle",
@@ -204,6 +204,6 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     }
 ]

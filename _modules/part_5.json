@@ -6,7 +6,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Attention Cues",
@@ -15,7 +15,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Attention Pooling: Nadaraya-Watson Kernel Regression",
@@ -24,7 +24,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Attention Scoring Functions",
@@ -33,7 +33,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Bahdanau Attention",
@@ -42,7 +42,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Multi-Head Attention",
@@ -51,7 +51,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Self-Attention and Positional Encoding",
@@ -60,7 +60,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Transformer",
@@ -69,6 +69,6 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     }
 ]

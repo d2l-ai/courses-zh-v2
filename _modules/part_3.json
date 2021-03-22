@@ -6,7 +6,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Optimization and Deep Learning",
@@ -15,7 +15,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Convexity",
@@ -24,7 +24,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Gradient Descent",
@@ -33,7 +33,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Stochastic Gradient Descent",
@@ -42,7 +42,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Minibatch Stochastic Gradient Descent",
@@ -51,7 +51,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Momentum",
@@ -60,7 +60,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Adagrad",
@@ -69,7 +69,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"RMSProp",
@@ -78,7 +78,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Adadelta",
@@ -87,7 +87,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Adam",
@@ -96,7 +96,7 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     },
     {
         "title":"Learning Rate Scheduling",
@@ -105,6 +105,6 @@
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
-        "tag":""
+        "qa_video":""
     }
 ]

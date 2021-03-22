@@ -5,11 +5,21 @@ title: 课程安排
 
 # 动手学深度学习在线课程
 
-<div class="responsive-video-container">
+<!-- <div class="responsive-video-container">
 
 <iframe src="//player.bilibili.com/player.html?aid=289532467&bvid=BV1if4y147hS&cid=309491732&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-</div> 
+</div>  -->
+
+## 课程摘要
+
+| --- | --- |
+| 课时  | 2021年3月20日 --- （预计）7月 |
+| 直播时间 | 北京时间每周六、日下午 1:00 --- 2:30 |
+| 直播地址 | [<span style="font-size:140%" class="iconfont icon-livestreaming"></span> 机器之心](https://app6ca5octe2206.h5.xiaoeknow.com/v1/course/alive/l_601cc496e4b05a9e88714463) |
+| 视频回放 | [<span style="font-size:140%" class="iconfont icon-bilibili-fill"></span> B站](https://space.bilibili.com/1567748478) |
+| 课程讨论 | [<span class="iconfont icon-discourse"></span> discuss.d2l.ai](https://discuss.d2l.ai/c/chinese-version/16) |
+
 
 
 不论是在学术突破还是在工业应用，
@@ -21,14 +31,7 @@ title: 课程安排
 
 课程内容将紧靠《动手学深度学习》第二版。本书目前已经被近200所大学采用作为教材。我们将在3月20日开始直播。同学们无需注册或缴费就可以参加。敬请期待。
 
-## 课程摘要
 
-| --- | --- |
-| 课时  | 2021年3月20日 --- （预计）7月 |
-| 直播时间 | 北京时间每周六、日下午 1:00 --- 2:30 |
-| 直播地址 | [<span style="font-size:140%" class="iconfont icon-livestreaming"></span> 机器之心](https://app6ca5octe2206.h5.xiaoeknow.com/v1/course/alive/l_601cc496e4b05a9e88714463) |
-| 视频回放 | [<span style="font-size:140%" class="iconfont icon-bilibili-fill"></span> B站](https://space.bilibili.com/1567748478) &nbsp; [<span style="font-size:140%" class="iconfont icon-youtube"></span> YouTube](https://www.youtube.com/playlist?list=PLFXJ6jwg0qW-IGzUIasshuMDMkoWzAAbH) |
-| 课程讨论 | [<span class="iconfont icon-discourse"></span> discuss.d2l.ai](https://discuss.d2l.ai/c/chinese-version/16) |
 
 
 ## 讲师
@@ -40,11 +43,12 @@ title: 课程安排
 <div style="clear: both;"></div>
 
 
-<!-- {% if site.announcements %}
+## 课程公告
+
+{% if site.announcements %}
 {{ site.announcements.last }}
 [所有公告](announcements.html){: .btn .fs-3 }
 {% endif %}
- -->
 
 
 ## 课程安排
