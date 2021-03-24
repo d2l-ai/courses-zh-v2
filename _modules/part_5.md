@@ -2,7 +2,7 @@
 title: 注意力机制
 ---
 
-7月4日
+7月3日
 
 : Attention Mechanisms
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html) &nbsp;
@@ -13,7 +13,7 @@ title: 注意力机制
 : Attention Scoring Functions
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html) &nbsp;
 
-7月10日
+7月4日
 
 : Bahdanau Attention
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_attention-mechanisms/bahdanau-attention.html) &nbsp;

@@ -2,7 +2,7 @@
 title: 循环神经网络
 ---
 
-6月27日
+6月26日
 
 : 循环神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html) &nbsp;
@@ -13,7 +13,7 @@ title: 循环神经网络
 : 语言模型和数据集
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/language-models-and-dataset.html) &nbsp;
 
-7月3日
+6月27日
 
 : 循环神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/rnn.html) &nbsp;

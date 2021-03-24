@@ -2,15 +2,7 @@
 title: 优化算法
 ---
 
-6月12日
-
-: **长假无课**{: .label .label-green }
-
-6月13日
-
-: **长假无课**{: .label .label-green }
-
-6月19日
+6月6日
 
 : Optimization Algorithms
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_optimization/index.html) &nbsp;
@@ -25,7 +17,15 @@ title: 优化算法
 : Minibatch Stochastic Gradient Descent
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_optimization/minibatch-sgd.html) &nbsp;
 
-6月20日
+6月12日
+
+: **长假无课**{: .label .label-green }
+
+6月13日
+
+: **长假无课**{: .label .label-green }
+
+6月19日
 
 : Momentum
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_optimization/momentum.html) &nbsp;
@@ -34,7 +34,7 @@ title: 优化算法
 : RMSProp
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_optimization/rmsprop.html) &nbsp;
 
-6月26日
+6月20日
 
 : Adadelta
   : [<span class="iconfont icon-xiaoshuo-copy"></span> 书](https://zh-v2.d2l.ai/chapter_optimization/adadelta.html) &nbsp;
