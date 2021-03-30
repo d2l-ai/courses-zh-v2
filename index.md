@@ -18,7 +18,7 @@ title: 课程安排
 | 直播时间 | 北京时间每周六、日下午 1:00 --- 2:30 |
 | 直播地址 | [<span style="font-size:140%" class="iconfont icon-livestreaming"></span> 机器之心](https://app6ca5octe2206.h5.xiaoeknow.com/v1/course/alive/l_601cc496e4b05a9e88714463) |
 | 视频回放 | [<span style="font-size:140%" class="iconfont icon-bilibili-fill"></span> B站](https://space.bilibili.com/1567748478) |
-| 课程讨论 | [<span class="iconfont icon-discourse"></span> discuss.d2l.ai](https://discuss.d2l.ai/c/chinese-version/16) |
+| 教材 | [<span class="iconfont icon-xiaoshuo-copy"></span> zh-v2.d2l.ai](https://zh-v2.d2l.ai/) |
 
 
 
