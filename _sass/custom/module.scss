@@ -67,7 +67,7 @@
 
     >dd {
       @extend %module-item;
-      
+
 
       a {
         background-image: none;
@@ -86,26 +86,49 @@
       ol, ul, dl {
         margin: 0;
       }
-
-      dl {
-        display: flex;
-        flex-direction: column;
-
-        @include mq(sm) {
+      @media only screen and (max-width: 500px) {
+        dl {
+          display: flex;
           flex-direction: row;
+          flex-flow: row wrap;
+
+          dt {
+            width: 100%;
+            margin: 0;
+            padding-bottom: 0.2em;
+          }
+
+          dd {
+            font-size: 80%;
+            width: 10%;
+            margin: 0;
+            padding-bottom: 0.4em;
+          }
         }
 
-        dt {
-          flex: 0 0 66%;
-          margin: 0;
-        }
+      }
+      @media only screen and (min-width: 500px) {
+        dl {
+          display: flex;
+          flex-direction: column;
 
-        dd {
-          font-size: 80%;
-          flex: 0 0 8%;
-          margin: 0;
+          @include mq(sm) {
+            flex-direction: row;
+          }
+
+          dt {
+            flex: 0 0 66%;
+            margin: 0;
+          }
+
+          dd {
+            font-size: 80%;
+            flex: 0 0 8%;
+            margin: 0;
+          }
         }
       }
+
     }
   }
 }

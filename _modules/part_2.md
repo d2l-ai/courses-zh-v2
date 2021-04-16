@@ -2,7 +2,7 @@
 title: 计算机视觉
 ---
 
-5月15日
+5月16日
 
 : Computational Performance
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computational-performance/index.html)
@@ -29,7 +29,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-5月16日
+5月22日
 
 : Hardware
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computational-performance/hardware.html)
@@ -56,7 +56,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-5月22日
+5月23日
 
 : Computer Vision
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computer-vision/index.html)
@@ -77,7 +77,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-5月23日
+5月29日
 
 : Object Detection and Bounding Boxes
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computer-vision/bounding-box.html)
@@ -98,7 +98,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-5月29日
+5月30日
 
 : The Object Detection Dataset
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computer-vision/object-detection-dataset.html)
@@ -119,7 +119,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-5月30日
+6月5日
 
 : Semantic Segmentation and the Dataset
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computer-vision/semantic-segmentation-and-dataset.html)
@@ -146,7 +146,7 @@ title: 计算机视觉
   :  &nbsp; 
 
 
-6月5日
+6月6日
 
 : Image Classification (CIFAR-10) on Kaggle
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_computer-vision/kaggle-cifar10.html)

@@ -2,7 +2,7 @@
 title: 卷积神经网络
 ---
 
-4月18日
+4月24日
 
 : 模型构造
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_deep-learning-computation/model-construction.html)
@@ -35,7 +35,7 @@ title: 卷积神经网络
   :  &nbsp; 
 
 
-4月24日
+4月25日
 
 : 从全连接层到卷积
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/why-conv.html)
@@ -62,7 +62,15 @@ title: 卷积神经网络
   :  &nbsp; 
 
 
-4月25日
+5月1日
+
+: **长假无课**{: .label .label-green }
+
+5月2日
+
+: **长假无课**{: .label .label-green }
+
+5月8日
 
 : 池化层
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/pooling.html)
@@ -83,15 +91,7 @@ title: 卷积神经网络
   :  &nbsp; 
 
 
-5月1日
-
-: **长假无课**{: .label .label-green }
-
-5月2日
-
-: **长假无课**{: .label .label-green }
-
-5月8日
+5月9日
 
 : 使用块的网络（VGG）
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-modern/vgg.html)
@@ -112,7 +112,7 @@ title: 卷积神经网络
   :  &nbsp; 
 
 
-5月9日
+5月15日
 
 : 批量归一化
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_convolutional-modern/batch-norm.html)

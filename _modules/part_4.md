@@ -2,7 +2,7 @@
 title: 循环神经网络
 ---
 
-6月26日
+6月27日
 
 : 循环神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html)
@@ -29,7 +29,7 @@ title: 循环神经网络
   :  &nbsp; 
 
 
-6月27日
+7月3日
 
 : 循环神经网络
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/rnn.html)

@@ -136,25 +136,25 @@ title: 深度学习基础
   : &nbsp; 
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_12.pdf)
   :  &nbsp; 
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1hh411U7gn)
 
 : 多层感知机
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_13.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/mlp.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1hh411U7gn?p=2)
 
 : 多层感知机的从零开始实现
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html)
   : &nbsp; 
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/mlp-scratch.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1hh411U7gn?p=3)
 
 : 多层感知机的简洁实现
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/mlp-concise.html)
   : &nbsp; 
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/mlp-concise.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1hh411U7gn?p=3)
 
 
 4月11日
@@ -163,13 +163,16 @@ title: 深度学习基础
   : &nbsp; 
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_14.pdf)
   :  &nbsp; 
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1kX4y1g7jp)
 
 : 欠拟合和过拟合
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_15.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/underfit-overfit.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1kX4y1g7jp?p=2)
+
+
+4月17日
 
 : 权重衰减
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
@@ -183,14 +186,14 @@ title: 深度学习基础
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/dropout.slides.html)
   :  &nbsp; 
 
-
-4月17日
-
 : 数值稳定性
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_18.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/numerical-stability-and-init.slides.html)
   :  &nbsp; 
+
+
+4月18日
 
 : 模型初始化和激活函数
   : &nbsp; 
