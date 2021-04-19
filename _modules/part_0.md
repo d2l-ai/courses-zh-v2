@@ -178,38 +178,38 @@ title: 深度学习基础
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_16.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/weight-decay.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1UK4y1o7dy)
 
 : Dropout
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_17.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/dropout.slides.html)
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1Y5411c7aY)
+
+
+4月18日
 
 : 数值稳定性
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html)
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_18.pdf)
   : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/numerical-stability-and-init.slides.html)
-  :  &nbsp; 
-
-
-4月18日
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1u64y1i75a)
 
 : 模型初始化和激活函数
   : &nbsp; 
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_19.pdf)
   :  &nbsp; 
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1u64y1i75a?p=2)
 
 : 实战 Kaggle 比赛：预测房价
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html)
   : &nbsp; 
   :  &nbsp; 
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1NK4y1P7Tu)
 
 : **竞赛**{: .label  } 预测房价
   : &nbsp; 
   : [<span class="iconfont icon-KeynoteOutline"></span>](assets/pdfs/part-0_20.pdf)
   :  &nbsp; 
-  :  &nbsp; 
+  : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1NK4y1P7Tu?p=2)
 

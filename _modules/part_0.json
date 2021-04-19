@@ -1,270 +1,357 @@
 [
     {
-        "title":"课程安排",
-        "day_break":true,
-        "slides":["part-01.pdf",6],
-        "slides_video":"https://www.bilibili.com/video/BV1oX4y137bC",
-        "notebook":false,
-        "notebook_video":"",
-        "qa_video":""
-    },    
-    {
-        "title":"深度学习介绍",
-        "day_break":false,
-        "book":"chapter_introduction/index.html",
-        "slides":["part-01.pdf",14],
-        "slides_video":"https://www.bilibili.com/video/BV1J54y187f9",
-        "notebook_video":""
-    },
-    {
-        "title":"安装",
-        "day_break":false,
-        "book":"chapter_installation/index.html",
-        "slides":["part-01.pdf",2],
-        "slides_video":"https://www.bilibili.com/video/BV18p4y1h7Dr",
-        "qa_video":"https://www.bilibili.com/video/BV18p4y1h7Dr?p=2"
-    },
-    {
-        "title":"数据操作",
-        "day_break":false,
-        "book":"chapter_preliminaries/ndarray.html",
-        "slides":["part-01.pdf",5],
-        "slides_video":"https://www.bilibili.com/video/BV1CV411Y7i4",
-        "notebook_video":"https://www.bilibili.com/video/BV1CV411Y7i4?p=2",
-        "qa_video":"https://www.bilibili.com/video/BV1CV411Y7i4?p=4"
-    },
-    {
-        "title":"数据预处理",
-        "day_break":false,
-        "book":"chapter_preliminaries/pandas.html",
-        "slides":["part-01.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1CV411Y7i4?p=3",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"线性代数",
-        "day_break":true,
-        "book":"chapter_preliminaries/linear-algebra.html",
-        "slides":["part-01.pdf",14],
-        "slides_video":"https://www.bilibili.com/video/BV1eK4y1U7Qy",
-        "notebook_video":"https://www.bilibili.com/video/BV1eK4y1U7Qy?p=2",
-        "qa_video":"https://www.bilibili.com/video/BV1eK4y1U7Qy?p=4"
-    },
-    {
-        "title":"[补充] 按特定轴求和",
-        "day_break":false,
-        "slides":["part-01.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1eK4y1U7Qy?p=3",
-        "notebook_video":"",
-        "qa_video":""
-    },     
-    {
-        "title":"矩阵计算",
-        "day_break":false,
-        "book":"chapter_preliminaries/calculus.html",
-        "slides":["part-01.pdf",10],
+        "title": "课程安排",
+        "day_break": true,
+        "slides": [
+            "part-01.pdf",
+            6
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1oX4y137bC",
         "notebook": false,
-        "slides_video":"https://www.bilibili.com/video/BV1eZ4y1w7PY",
-        "notebook_video":"",
-        "qa_video":"https://www.bilibili.com/video/BV1eZ4y1w7PY?p=2"
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"自动求导",
-        "day_break":false,
-        "book":"chapter_preliminaries/autograd.html",
-        "slides":["part-01.pdf",15],
-        "slides_video":"https://www.bilibili.com/video/BV1KA411N7Px",
-        "notebook_video":"https://www.bilibili.com/video/BV1KA411N7Px?p=2",
-        "qa_video":"https://www.bilibili.com/video/BV1KA411N7Px?p=3"
+        "title": "深度学习介绍",
+        "day_break": false,
+        "book": "chapter_introduction/index.html",
+        "slides": [
+            "part-01.pdf",
+            14
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1J54y187f9",
+        "notebook_video": ""
     },
     {
-        "title":"线性回归",
-        "day_break":true,
-        "book":"chapter_linear-networks/linear-regression.html",
-        "slides":["part-01.pdf",11],
-        "slides_video":"https://www.bilibili.com/video/BV1PX4y1g7KC",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "安装",
+        "day_break": false,
+        "book": "chapter_installation/index.html",
+        "slides": [
+            "part-01.pdf",
+            2
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV18p4y1h7Dr",
+        "qa_video": "https://www.bilibili.com/video/BV18p4y1h7Dr?p=2"
     },
     {
-        "title":"基础优化方法",
-        "day_break":false,
-        "slides":["part-01.pdf",6],
-        "slides_video":"https://www.bilibili.com/video/BV1PX4y1g7KC?p=2",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "数据操作",
+        "day_break": false,
+        "book": "chapter_preliminaries/ndarray.html",
+        "slides": [
+            "part-01.pdf",
+            5
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1CV411Y7i4",
+        "notebook_video": "https://www.bilibili.com/video/BV1CV411Y7i4?p=2",
+        "qa_video": "https://www.bilibili.com/video/BV1CV411Y7i4?p=4"
     },
     {
-        "title":"线性回归的从零开始实现",
-        "day_break":false,
-        "book":"chapter_linear-networks/linear-regression-scratch.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1PX4y1g7KC?p=3",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "数据预处理",
+        "day_break": false,
+        "book": "chapter_preliminaries/pandas.html",
+        "slides": [
+            "part-01.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1CV411Y7i4?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"线性回归的简洁实现",
-        "day_break":false,
-        "book":"chapter_linear-networks/linear-regression-concise.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1PX4y1g7KC?p=4",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "线性代数",
+        "day_break": true,
+        "book": "chapter_preliminaries/linear-algebra.html",
+        "slides": [
+            "part-01.pdf",
+            14
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1eK4y1U7Qy",
+        "notebook_video": "https://www.bilibili.com/video/BV1eK4y1U7Qy?p=2",
+        "qa_video": "https://www.bilibili.com/video/BV1eK4y1U7Qy?p=4"
     },
     {
-        "title":"Softmax 回归",
-        "day_break":true,
-        "book":"chapter_linear-networks/softmax-regression.html",
-        "slides":["part-01.pdf",11],
-        "slides_video":"https://www.bilibili.com/video/BV1K64y1Q7wu",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "[补充] 按特定轴求和",
+        "day_break": false,
+        "slides": [
+            "part-01.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1eK4y1U7Qy?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"损失函数",
-        "day_break":false,
-        "book":"",
-        "slides":["part-01.pdf",7],
-        "slides_video":"https://www.bilibili.com/video/BV1K64y1Q7wu?p=2",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "矩阵计算",
+        "day_break": false,
+        "book": "chapter_preliminaries/calculus.html",
+        "slides": [
+            "part-01.pdf",
+            10
+        ],
+        "notebook": false,
+        "slides_video": "https://www.bilibili.com/video/BV1eZ4y1w7PY",
+        "notebook_video": "",
+        "qa_video": "https://www.bilibili.com/video/BV1eZ4y1w7PY?p=2"
     },
     {
-        "title":"图像分类数据集",
-        "day_break":false,
-        "book":"chapter_linear-networks/image-classification-dataset.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1K64y1Q7wu?p=3",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "自动求导",
+        "day_break": false,
+        "book": "chapter_preliminaries/autograd.html",
+        "slides": [
+            "part-01.pdf",
+            15
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1KA411N7Px",
+        "notebook_video": "https://www.bilibili.com/video/BV1KA411N7Px?p=2",
+        "qa_video": "https://www.bilibili.com/video/BV1KA411N7Px?p=3"
     },
     {
-        "title":"Softmax 回归的从零开始实现",
-        "day_break":false,
-        "book":"chapter_linear-networks/softmax-regression-scratch.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1K64y1Q7wu?p=4",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "线性回归",
+        "day_break": true,
+        "book": "chapter_linear-networks/linear-regression.html",
+        "slides": [
+            "part-01.pdf",
+            11
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1PX4y1g7KC",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Softmax 回归的简洁实现",
-        "day_break":false,
-        "book":"chapter_linear-networks/softmax-regression-concise.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1K64y1Q7wu?p=5",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "基础优化方法",
+        "day_break": false,
+        "slides": [
+            "part-01.pdf",
+            6
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1PX4y1g7KC?p=2",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"感知机",
-        "day_break":true,
-        "slides":["part-01.pdf",11],
-        "slides_video":"https://www.bilibili.com/video/BV1hh411U7gn",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "线性回归的从零开始实现",
+        "day_break": false,
+        "book": "chapter_linear-networks/linear-regression-scratch.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1PX4y1g7KC?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"多层感知机",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/mlp.html",
-        "slides":["part-01.pdf",13],
-        "slides_video":"https://www.bilibili.com/video/BV1hh411U7gn?p=2",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "线性回归的简洁实现",
+        "day_break": false,
+        "book": "chapter_linear-networks/linear-regression-concise.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1PX4y1g7KC?p=4",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"多层感知机的从零开始实现",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/mlp-scratch.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1hh411U7gn?p=3",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Softmax 回归",
+        "day_break": true,
+        "book": "chapter_linear-networks/softmax-regression.html",
+        "slides": [
+            "part-01.pdf",
+            11
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1K64y1Q7wu",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"多层感知机的简洁实现",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/mlp-concise.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"https://www.bilibili.com/video/BV1hh411U7gn?p=3",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "损失函数",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-01.pdf",
+            7
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1K64y1Q7wu?p=2",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"模型选择",
-        "day_break":true,
-        "book":"",
-        "slides":["part-01.pdf",7],
-        "slides_video":"https://www.bilibili.com/video/BV1kX4y1g7jp",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "图像分类数据集",
+        "day_break": false,
+        "book": "chapter_linear-networks/image-classification-dataset.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1K64y1Q7wu?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"欠拟合和过拟合",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/underfit-overfit.html",
-        "slides":["part-01.pdf",10],
-        "slides_video":"https://www.bilibili.com/video/BV1kX4y1g7jp?p=2",
-        "notebook_video":"",
-        "qa_video":""
-    },
-
-    {
-        "title":"权重衰减",
-        "day_break":true,
-        "book":"chapter_multilayer-perceptrons/weight-decay.html",
-        "slides":["part-01.pdf",6],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Softmax 回归的从零开始实现",
+        "day_break": false,
+        "book": "chapter_linear-networks/softmax-regression-scratch.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1K64y1Q7wu?p=4",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Dropout",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/dropout.html",
-        "slides":["part-01.pdf",6],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Softmax 回归的简洁实现",
+        "day_break": false,
+        "book": "chapter_linear-networks/softmax-regression-concise.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1K64y1Q7wu?p=5",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"数值稳定性",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/numerical-stability-and-init.html",
-        "slides":["part-01.pdf",10],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "感知机",
+        "day_break": true,
+        "slides": [
+            "part-01.pdf",
+            11
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1hh411U7gn",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"模型初始化和激活函数",
-        "day_break":true,
-        "slides":["part-01.pdf",12],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多层感知机",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/mlp.html",
+        "slides": [
+            "part-01.pdf",
+            13
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1hh411U7gn?p=2",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"实战 Kaggle 比赛：预测房价",
-        "day_break":false,
-        "book":"chapter_multilayer-perceptrons/kaggle-house-price.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多层感知机的从零开始实现",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/mlp-scratch.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1hh411U7gn?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"**竞赛**{: .label  } 预测房价",
-        "day_break":false,
-        "book":"",
-        "slides":["part-01.pdf",2],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多层感知机的简洁实现",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/mlp-concise.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1hh411U7gn?p=3",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "模型选择",
+        "day_break": true,
+        "book": "",
+        "slides": [
+            "part-01.pdf",
+            7
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1kX4y1g7jp",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "欠拟合和过拟合",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/underfit-overfit.html",
+        "slides": [
+            "part-01.pdf",
+            10
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1kX4y1g7jp?p=2",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "权重衰减",
+        "day_break": true,
+        "book": "chapter_multilayer-perceptrons/weight-decay.html",
+        "slides": [
+            "part-01.pdf",
+            6
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1UK4y1o7dy",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "Dropout",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/dropout.html",
+        "slides": [
+            "part-01.pdf",
+            6
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1Y5411c7aY",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "数值稳定性",
+        "day_break": true,
+        "book": "chapter_multilayer-perceptrons/numerical-stability-and-init.html",
+        "slides": [
+            "part-01.pdf",
+            10
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1u64y1i75a",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "模型初始化和激活函数",
+        "day_break": false,
+        "slides": [
+            "part-01.pdf",
+            12
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1u64y1i75a?p=2",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "实战 Kaggle 比赛：预测房价",
+        "day_break": false,
+        "book": "chapter_multilayer-perceptrons/kaggle-house-price.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1NK4y1P7Tu",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "**竞赛**{: .label  } 预测房价",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-01.pdf",
+            2
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1NK4y1P7Tu?p=2",
+        "notebook_video": "",
+        "qa_video": ""
     }
-
 ]
-    
