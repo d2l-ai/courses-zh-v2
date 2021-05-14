@@ -1,164 +1,230 @@
 [
     {
-        "title":"模型构造",
-        "day_break":true,
-        "book":"chapter_deep-learning-computation/model-construction.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "模型构造",
+        "day_break": true,
+        "book": "chapter_deep-learning-computation/model-construction.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1AK4y1P7vs",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"参数管理",
-        "day_break":false,
-        "book":"chapter_deep-learning-computation/parameters.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "参数管理",
+        "day_break": false,
+        "book": "chapter_deep-learning-computation/parameters.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1AK4y1P7vs?p=2",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"自定义层",
-        "day_break":false,
-        "book":"chapter_deep-learning-computation/custom-layer.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "自定义层",
+        "day_break": false,
+        "book": "chapter_deep-learning-computation/custom-layer.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1AK4y1P7vs?p=3",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"读写文件",
-        "day_break":false,
-        "book":"chapter_deep-learning-computation/read-write.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "读写文件",
+        "day_break": false,
+        "book": "chapter_deep-learning-computation/read-write.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1AK4y1P7vs?p=4",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"GPU",
-        "day_break":false,
-        "book":"chapter_deep-learning-computation/use-gpu.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "GPU",
+        "day_break": false,
+        "book": "chapter_deep-learning-computation/use-gpu.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1z5411c7C1",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"从全连接层到卷积",
-        "day_break":true,
-        "book":"chapter_convolutional-neural-networks/why-conv.html",
-        "slides":["part-02.pdf",9],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "预测房价竞赛总结",
+        "day_break": true,
+        "book": "",
+        "slides": [
+            "part-01.pdf",
+            5
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"图像卷积",
-        "day_break":false,
-        "book":"chapter_convolutional-neural-networks/conv-layer.html",
-        "slides":["part-02.pdf",7],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "从全连接层到卷积",
+        "day_break": false,
+        "book": "chapter_convolutional-neural-networks/why-conv.html",
+        "slides": [
+            "part-02.pdf",
+            9
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"填充和步幅",
-        "day_break":false,
-        "book":"chapter_convolutional-neural-networks/padding-and-strides.html",
-        "slides":["part-02.pdf",8],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "图像卷积",
+        "day_break": false,
+        "book": "chapter_convolutional-neural-networks/conv-layer.html",
+        "slides": [
+            "part-02.pdf",
+            7
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"多输入多输出通道",
-        "day_break":false,
-        "book":"chapter_convolutional-neural-networks/channels.html",
-        "slides":["part-02.pdf",10],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "填充和步幅",
+        "day_break": false,
+        "book": "chapter_convolutional-neural-networks/padding-and-strides.html",
+        "slides": [
+            "part-02.pdf",
+            8
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"池化层",
-        "day_break":true,
-        "book":"chapter_convolutional-neural-networks/pooling.html",
-        "slides":["part-02.pdf",7],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多输入多输出通道",
+        "day_break": false,
+        "book": "chapter_convolutional-neural-networks/channels.html",
+        "slides": [
+            "part-02.pdf",
+            10
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"卷积神经网络（LeNet）",
-        "day_break":false,
-        "book":"chapter_convolutional-neural-networks/lenet.html",
-        "slides":["part-02.pdf",6],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "池化层",
+        "day_break": true,
+        "book": "chapter_convolutional-neural-networks/pooling.html",
+        "slides": [
+            "part-02.pdf",
+            7
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"深度卷积神经网络（AlexNet）",
-        "day_break":false,
-        "book":"chapter_convolutional-modern/alexnet.html",
-        "slides":["part-02.pdf",13],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "卷积神经网络（LeNet）",
+        "day_break": false,
+        "book": "chapter_convolutional-neural-networks/lenet.html",
+        "slides": [
+            "part-02.pdf",
+            6
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"使用块的网络（VGG）",
-        "day_break":true,
-        "book":"chapter_convolutional-modern/vgg.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "深度卷积神经网络（AlexNet）",
+        "day_break": false,
+        "book": "chapter_convolutional-modern/alexnet.html",
+        "slides": [
+            "part-02.pdf",
+            13
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"网络中的网络（NiN）",
-        "day_break":false,
-        "book":"chapter_convolutional-modern/nin.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "使用块的网络（VGG）",
+        "day_break": true,
+        "book": "chapter_convolutional-modern/vgg.html",
+        "slides": [
+            "part-02.pdf",
+            7
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"含并行连结的网络（GoogLeNet）",
-        "day_break":false,
-        "book":"chapter_convolutional-modern/googlenet.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "网络中的网络（NiN）",
+        "day_break": false,
+        "book": "chapter_convolutional-modern/nin.html",
+        "slides": [
+            "part-02.pdf",
+            6
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"批量归一化",
-        "day_break":true,
-        "book":"chapter_convolutional-modern/batch-norm.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "含并行连结的网络（GoogLeNet）",
+        "day_break": false,
+        "book": "chapter_convolutional-modern/googlenet.html",
+        "slides": [
+            "part-02.pdf",
+            15
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"残差网络（ResNet）",
-        "day_break":false,
-        "book":"chapter_convolutional-modern/resnet.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "批量归一化",
+        "day_break": true,
+        "book": "chapter_convolutional-modern/batch-norm.html",
+        "slides": [
+            "part-02.pdf",
+            6
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"稠密连接网络（DenseNet）",
-        "day_break":false,
-        "book":"chapter_convolutional-modern/densenet.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "残差网络（ResNet）",
+        "day_break": false,
+        "book": "chapter_convolutional-modern/resnet.html",
+        "slides": [
+            "part-02.pdf",
+            9
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "**竞赛**{: .label  } 图片分类",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     }
 ]

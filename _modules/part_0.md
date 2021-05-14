@@ -204,7 +204,7 @@ title: 深度学习基础
 : 实战 Kaggle 比赛：预测房价
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html)
   : &nbsp; 
-  :  &nbsp; 
+  : [<span class="iconfont icon-jupyter"></span>](assets/notebooks/chapter_multilayer-perceptrons/kaggle-house-price.slides.html)
   : [<span style="font-size:130%"  class="iconfont icon-bilibili-fill"></span>](https://www.bilibili.com/video/BV1NK4y1P7Tu)
 
 : **竞赛**{: .label  } 预测房价

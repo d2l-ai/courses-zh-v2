@@ -1,56 +1,56 @@
 ---
-title: 循环神经网络
+title: 注意力机制
 ---
 
-6月27日
+7月11日
 
-: 循环神经网络
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html)
+: Attention Mechanisms
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 序列模型
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/sequence.html)
+: Attention Cues
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/attention-cues.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 文本预处理
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/text-preprocessing.html)
+: Attention Pooling: Nadaraya-Watson Kernel Regression
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/nadaraya-waston.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 语言模型和数据集
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/language-models-and-dataset.html)
+: Attention Scoring Functions
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
 
-7月3日
+7月17日
 
-: 循环神经网络
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/rnn.html)
+: Bahdanau Attention
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/bahdanau-attention.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 循环神经网络的从零开始实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/rnn-scratch.html)
+: Multi-Head Attention
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/multihead-attention.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 循环神经网络的简洁实现
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/rnn-concise.html)
+: Self-Attention and Positional Encoding
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/self-attention-and-positional-encoding.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: 通过时间反向传播
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/bptt.html)
+: Transformer
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/transformer.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 

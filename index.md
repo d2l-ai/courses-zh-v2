@@ -5,6 +5,13 @@ title: 课程安排
 
 # 动手学深度学习在线课程
 
+## 课程更新
+
+{% if site.announcements %}
+{{ site.announcements.last }}
+[所有公告](announcements.html){: .btn .fs-3 }
+{% endif %}
+
 <!-- <div class="responsive-video-container">
 
 <iframe src="//player.bilibili.com/player.html?aid=289532467&bvid=BV1if4y147hS&cid=309491732&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -43,12 +50,6 @@ title: 课程安排
 <div style="clear: both;"></div>
 
 
-## 课程公告
-
-{% if site.announcements %}
-{{ site.announcements.last }}
-[所有公告](announcements.html){: .btn .fs-3 }
-{% endif %}
 
 
 ## 课程安排

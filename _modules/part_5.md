@@ -1,56 +1,131 @@
 ---
-title: 注意力机制
+title: 自然语言处理
 ---
 
-7月4日
+7月18日
 
-: Attention Mechanisms
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)
+: Natural Language Processing: Pretraining
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/index.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Attention Cues
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/attention-cues.html)
+: Word Embedding (word2vec)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Attention Pooling: Nadaraya-Watson Kernel Regression
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/nadaraya-waston.html)
+: Approximate Training
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/approx-training.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Attention Scoring Functions
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html)
+: The Dataset for Pretraining Word Embedding
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
 
-7月10日
+7月24日
 
-: Bahdanau Attention
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/bahdanau-attention.html)
+: Pretraining word2vec
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/word2vec-pretraining.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Multi-Head Attention
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/multihead-attention.html)
+: Word Embedding with Global Vectors (GloVe)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/glove.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Self-Attention and Positional Encoding
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/self-attention-and-positional-encoding.html)
+: Subword Embedding
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/subword-embedding.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 
 
-: Transformer
-  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_attention-mechanisms/transformer.html)
+: Finding Synonyms and Analogies
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/similarity-analogy.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+
+7月25日
+
+: Bidirectional Encoder Representations from Transformers (BERT)
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/bert.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: The Dataset for Pretraining BERT
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Pretraining BERT
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/bert-pretraining.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Natural Language Processing: Applications
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/index.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+
+7月31日
+
+: Sentiment Analysis and the Dataset
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Sentiment Analysis: Using Recurrent Neural Networks
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-rnn.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Sentiment Analysis: Using Convolutional Neural Networks
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-cnn.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Natural Language Inference and the Dataset
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+
+8月1日
+
+: Natural Language Inference: Using Attention
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-attention.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Fine-Tuning BERT for Sequence-Level and Token-Level Applications
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html)
+  : &nbsp; 
+  :  &nbsp; 
+  :  &nbsp; 
+
+: Natural Language Inference: Fine-Tuning BERT
+  : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-bert.html)
   : &nbsp; 
   :  &nbsp; 
   :  &nbsp; 

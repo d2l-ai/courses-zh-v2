@@ -1,107 +1,143 @@
 [
     {
-        "title":"Optimization Algorithms",
+        "title":"循环神经网络",
         "day_break":true,
-        "book":"chapter_optimization/index.html",
+        "book":"chapter_recurrent-neural-networks/index.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Optimization and Deep Learning",
+        "title":"序列模型",
         "day_break":false,
-        "book":"chapter_optimization/optimization-intro.html",
+        "book":"chapter_recurrent-neural-networks/sequence.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Convexity",
+        "title":"文本预处理",
         "day_break":false,
-        "book":"chapter_optimization/convexity.html",
+        "book":"chapter_recurrent-neural-networks/text-preprocessing.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Gradient Descent",
+        "title":"语言模型和数据集",
         "day_break":false,
-        "book":"chapter_optimization/gd.html",
+        "book":"chapter_recurrent-neural-networks/language-models-and-dataset.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Stochastic Gradient Descent",
-        "day_break":false,
-        "book":"chapter_optimization/sgd.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Minibatch Stochastic Gradient Descent",
-        "day_break":false,
-        "book":"chapter_optimization/minibatch-sgd.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Momentum",
+        "title":"循环神经网络",
         "day_break":true,
-        "book":"chapter_optimization/momentum.html",
+        "book":"chapter_recurrent-neural-networks/rnn.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Adagrad",
+        "title":"循环神经网络的从零开始实现",
         "day_break":false,
-        "book":"chapter_optimization/adagrad.html",
+        "book":"chapter_recurrent-neural-networks/rnn-scratch.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"RMSProp",
+        "title":"循环神经网络的简洁实现",
         "day_break":false,
-        "book":"chapter_optimization/rmsprop.html",
+        "book":"chapter_recurrent-neural-networks/rnn-concise.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Adadelta",
+        "title":"通过时间反向传播",
+        "day_break":false,
+        "book":"chapter_recurrent-neural-networks/bptt.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"门控循环单元（GRU）",
         "day_break":true,
-        "book":"chapter_optimization/adadelta.html",
+        "book":"chapter_recurrent-modern/gru.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Adam",
+        "title":"长短期记忆网络（LSTM）",
         "day_break":false,
-        "book":"chapter_optimization/adam.html",
+        "book":"chapter_recurrent-modern/lstm.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Learning Rate Scheduling",
+        "title":"深层循环神经网络",
+        "day_break":true,
+        "book":"chapter_recurrent-modern/deep-rnn.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"双向循环神经网络",
         "day_break":false,
-        "book":"chapter_optimization/lr-scheduler.html",
+        "book":"chapter_recurrent-modern/bi-rnn.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"机器翻译与数据集",
+        "day_break":false,
+        "book":"chapter_recurrent-modern/machine-translation-and-dataset.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"编码器-解码器结构",
+        "day_break":true,
+        "book":"chapter_recurrent-modern/encoder-decoder.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"序列到序列学习（seq2seq）",
+        "day_break":false,
+        "book":"chapter_recurrent-modern/seq2seq.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"束搜索",
+        "day_break":false,
+        "book":"chapter_recurrent-modern/beam-search.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",

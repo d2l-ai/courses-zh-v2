@@ -1,170 +1,107 @@
 [
     {
-        "title":"Natural Language Processing: Pretraining",
+        "title":"Optimization Algorithms",
         "day_break":true,
-        "book":"chapter_natural-language-processing-pretraining/index.html",
+        "book":"chapter_optimization/index.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Word Embedding (word2vec)",
+        "title":"Optimization and Deep Learning",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/word2vec.html",
+        "book":"chapter_optimization/optimization-intro.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Approximate Training",
+        "title":"Convexity",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/approx-training.html",
+        "book":"chapter_optimization/convexity.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"The Dataset for Pretraining Word Embedding",
+        "title":"Gradient Descent",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/word-embedding-dataset.html",
+        "book":"chapter_optimization/gd.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Pretraining word2vec",
+        "title":"Stochastic Gradient Descent",
+        "day_break":false,
+        "book":"chapter_optimization/sgd.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"Minibatch Stochastic Gradient Descent",
+        "day_break":false,
+        "book":"chapter_optimization/minibatch-sgd.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"Momentum",
         "day_break":true,
-        "book":"chapter_natural-language-processing-pretraining/word2vec-pretraining.html",
+        "book":"chapter_optimization/momentum.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Word Embedding with Global Vectors (GloVe)",
+        "title":"Adagrad",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/glove.html",
+        "book":"chapter_optimization/adagrad.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Subword Embedding",
+        "title":"RMSProp",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/subword-embedding.html",
+        "book":"chapter_optimization/rmsprop.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Finding Synonyms and Analogies",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/similarity-analogy.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Bidirectional Encoder Representations from Transformers (BERT)",
+        "title":"Adadelta",
         "day_break":true,
-        "book":"chapter_natural-language-processing-pretraining/bert.html",
+        "book":"chapter_optimization/adadelta.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"The Dataset for Pretraining BERT",
+        "title":"Adam",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/bert-dataset.html",
+        "book":"chapter_optimization/adam.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Pretraining BERT",
+        "title":"Learning Rate Scheduling",
         "day_break":false,
-        "book":"chapter_natural-language-processing-pretraining/bert-pretraining.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Natural Language Processing: Applications",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/index.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Sentiment Analysis and the Dataset",
-        "day_break":true,
-        "book":"chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Sentiment Analysis: Using Recurrent Neural Networks",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/sentiment-analysis-rnn.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Sentiment Analysis: Using Convolutional Neural Networks",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/sentiment-analysis-cnn.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Natural Language Inference and the Dataset",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Natural Language Inference: Using Attention",
-        "day_break":true,
-        "book":"chapter_natural-language-processing-applications/natural-language-inference-attention.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Fine-Tuning BERT for Sequence-Level and Token-Level Applications",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/finetuning-bert.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Natural Language Inference: Fine-Tuning BERT",
-        "day_break":false,
-        "book":"chapter_natural-language-processing-applications/natural-language-inference-bert.html",
+        "book":"chapter_optimization/lr-scheduler.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",

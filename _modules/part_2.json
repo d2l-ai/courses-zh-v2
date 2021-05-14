@@ -1,209 +1,218 @@
 [
     {
-        "title":"Computational Performance",
-        "day_break":true,
-        "book":"chapter_computational-performance/index.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "硬件",
+        "day_break": true,
+        "book": "chapter_computational-performance/hardware.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Compilers and Interpreters",
-        "day_break":false,
-        "book":"chapter_computational-performance/hybridize.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多GPU训练",
+        "day_break": false,
+        "book": "chapter_computational-performance/multiple-gpus.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Asynchronous Computation",
-        "day_break":false,
-        "book":"chapter_computational-performance/async-computation.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "多GPU的简洁实现",
+        "day_break": false,
+        "book": "chapter_computational-performance/multiple-gpus-concise.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Automatic Parallelism",
-        "day_break":false,
-        "book":"chapter_computational-performance/auto-parallelism.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "图像增广",
+        "day_break": true,
+        "book": "chapter_computer-vision/image-augmentation.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Hardware",
-        "day_break":true,
-        "book":"chapter_computational-performance/hardware.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "微调",
+        "day_break": false,
+        "book": "chapter_computer-vision/fine-tuning.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Training on Multiple GPUs",
-        "day_break":false,
-        "book":"chapter_computational-performance/multiple-gpus.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "实战 Kaggle 比赛：图像分类（CIFAR-10）",
+        "day_break": true,
+        "book": "chapter_computer-vision/kaggle-cifar10.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Concise Implementation for Multiple GPUs",
-        "day_break":false,
-        "book":"chapter_computational-performance/multiple-gpus-concise.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "实战 Kaggle 比赛：狗的品种识别（ImageNet Dogs）",
+        "day_break": false,
+        "book": "chapter_computer-vision/kaggle-dog.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Parameter Servers",
-        "day_break":false,
-        "book":"chapter_computational-performance/parameterserver.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Object Detection and Bounding Boxes",
+        "day_break": true,
+        "book": "chapter_computer-vision/bounding-box.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Computer Vision",
-        "day_break":true,
-        "book":"chapter_computer-vision/index.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Anchor Boxes",
+        "day_break": false,
+        "book": "chapter_computer-vision/anchor.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Image Augmentation",
-        "day_break":false,
-        "book":"chapter_computer-vision/image-augmentation.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Multiscale Object Detection",
+        "day_break": false,
+        "book": "chapter_computer-vision/multiscale-object-detection.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Fine-Tuning",
-        "day_break":false,
-        "book":"chapter_computer-vision/fine-tuning.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "The Object Detection Dataset",
+        "day_break": true,
+        "book": "chapter_computer-vision/object-detection-dataset.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Object Detection and Bounding Boxes",
-        "day_break":true,
-        "book":"chapter_computer-vision/bounding-box.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Single Shot Multibox Detection (SSD)",
+        "day_break": false,
+        "book": "chapter_computer-vision/ssd.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Anchor Boxes",
-        "day_break":false,
-        "book":"chapter_computer-vision/anchor.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Region-based CNNs (R-CNNs)",
+        "day_break": false,
+        "book": "chapter_computer-vision/rcnn.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Multiscale Object Detection",
-        "day_break":false,
-        "book":"chapter_computer-vision/multiscale-object-detection.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Semantic Segmentation and the Dataset",
+        "day_break": true,
+        "book": "chapter_computer-vision/semantic-segmentation-and-dataset.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"The Object Detection Dataset",
-        "day_break":true,
-        "book":"chapter_computer-vision/object-detection-dataset.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Transposed Convolution",
+        "day_break": false,
+        "book": "chapter_computer-vision/transposed-conv.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Single Shot Multibox Detection (SSD)",
-        "day_break":false,
-        "book":"chapter_computer-vision/ssd.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Fully Convolutional Networks (FCN)",
+        "day_break": false,
+        "book": "chapter_computer-vision/fcn.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Region-based CNNs (R-CNNs)",
-        "day_break":false,
-        "book":"chapter_computer-vision/rcnn.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "Neural Style Transfer",
+        "day_break": false,
+        "book": "chapter_computer-vision/neural-style.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     },
     {
-        "title":"Semantic Segmentation and the Dataset",
-        "day_break":true,
-        "book":"chapter_computer-vision/semantic-segmentation-and-dataset.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Transposed Convolution",
-        "day_break":false,
-        "book":"chapter_computer-vision/transposed-conv.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Fully Convolutional Networks (FCN)",
-        "day_break":false,
-        "book":"chapter_computer-vision/fcn.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Neural Style Transfer",
-        "day_break":false,
-        "book":"chapter_computer-vision/neural-style.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Image Classification (CIFAR-10) on Kaggle",
-        "day_break":true,
-        "book":"chapter_computer-vision/kaggle-cifar10.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Dog Breed Identification (ImageNet Dogs) on Kaggle",
-        "day_break":false,
-        "book":"chapter_computer-vision/kaggle-dog.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
+        "title": "**竞赛**{: .label  } 目标检测",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "",
+        "notebook_video": "",
+        "qa_video": ""
     }
 ]
