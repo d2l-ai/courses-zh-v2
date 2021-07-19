@@ -1,62 +1,44 @@
 [
     {
-        "title":"Attention Mechanisms",
+        "title":"注意力机制",
         "day_break":true,
-        "book":"chapter_attention-mechanisms/index.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Attention Cues",
-        "day_break":false,
-        "book":"chapter_attention-mechanisms/attention-cues.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Attention Pooling: Nadaraya-Watson Kernel Regression",
-        "day_break":false,
         "book":"chapter_attention-mechanisms/nadaraya-waston.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-05.pdf",7],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Attention Scoring Functions",
+        "title":"注意力分数",
         "day_break":false,
         "book":"chapter_attention-mechanisms/attention-scoring-functions.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-05.pdf",6],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Bahdanau Attention",
-        "day_break":true,
+        "title":"使用注意力机制的seq2seq",
+        "day_break":false,
         "book":"chapter_attention-mechanisms/bahdanau-attention.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-05.pdf",4],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""
     },
     {
-        "title":"Multi-Head Attention",
+        "title":"自注意力和位置编码",
+        "day_break":true,
+        "book":"chapter_attention-mechanisms/self-attention-and-positional-encoding.html",
+        "slides":["part-05.pdf",8],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"多头注意力",
         "day_break":false,
         "book":"chapter_attention-mechanisms/multihead-attention.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"Self-Attention and Positional Encoding",
-        "day_break":false,
-        "book":"chapter_attention-mechanisms/self-attention-and-positional-encoding.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",
@@ -66,7 +48,7 @@
         "title":"Transformer",
         "day_break":false,
         "book":"chapter_attention-mechanisms/transformer.html",
-        "slides":["part-0.pdf",0],
+        "slides":["part-05.pdf",10],
         "slides_video":"",
         "notebook_video":"",
         "qa_video":""

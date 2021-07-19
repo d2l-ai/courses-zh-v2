@@ -1,13 +1,25 @@
 [
     {
-        "title": "硬件",
+        "title": "硬件：CPU和GPU",
         "day_break": true,
         "book": "chapter_computational-performance/hardware.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            14
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1TU4y1j7Wd/",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "更多的专有硬件",
+        "day_break": true,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            16
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1VV41147PC/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -16,22 +28,34 @@
         "day_break": false,
         "book": "chapter_computational-performance/multiple-gpus.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            5
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1vU4y1V7rd/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "多GPU的简洁实现",
-        "day_break": false,
+        "title": "多GPU训练的实现",
+        "day_break": true,
         "book": "chapter_computational-performance/multiple-gpus-concise.html",
         "slides": [
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1MQ4y1R7Qg",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "分布式训练",
+        "day_break": false,
+        "book": "chapter_computational-performance/parameterserver.html",
+        "slides": [
+            "part-03.pdf",
+            16
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1jU4y1G7iu",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -40,10 +64,10 @@
         "day_break": true,
         "book": "chapter_computer-vision/image-augmentation.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            9
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV17y4y1g76q",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -52,10 +76,10 @@
         "day_break": false,
         "book": "chapter_computer-vision/fine-tuning.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            9
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Sb4y1d7CR",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -67,7 +91,7 @@
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Gy4y1M7Cu",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -79,127 +103,200 @@
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1j5411T7wx",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Object Detection and Bounding Boxes",
+        "title": "物体检测",
         "day_break": true,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            6
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1Lh411Y7LX",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "边缘框实现",
+        "day_break": false,
         "book": "chapter_computer-vision/bounding-box.html",
         "slides": [
-            "part-0.pdf",
+            "part-03.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Lh411Y7LX?p=2",
         "notebook_video": "",
         "qa_video": ""
     },
+    
     {
-        "title": "Anchor Boxes",
+        "title": "物体检测数据集",
         "day_break": false,
-        "book": "chapter_computer-vision/anchor.html",
-        "slides": [
-            "part-0.pdf",
-            0
-        ],
-        "slides_video": "",
-        "notebook_video": "",
-        "qa_video": ""
-    },
-    {
-        "title": "Multiscale Object Detection",
-        "day_break": false,
-        "book": "chapter_computer-vision/multiscale-object-detection.html",
-        "slides": [
-            "part-0.pdf",
-            0
-        ],
-        "slides_video": "",
-        "notebook_video": "",
-        "qa_video": ""
-    },
-    {
-        "title": "The Object Detection Dataset",
-        "day_break": true,
         "book": "chapter_computer-vision/object-detection-dataset.html",
         "slides": [
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Lh411Y7LX?p=3",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Single Shot Multibox Detection (SSD)",
+        "title": "锚框",
+        "day_break": false,
+        "book": "chapter_computer-vision/anchor.html",
+        "slides": [
+            "part-03.pdf",
+            7
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1aB4y1K7za",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "**竞赛**{: .label  } 树叶分类竞赛总结",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            8
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1by4y1K7SE",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "区域卷积神经网络（R-CNNs）",
+        "day_break": true,
+        "book": "chapter_computer-vision/rcnn.html",
+        "slides": [
+            "part-03.pdf",
+            8
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1Db4y1C71g",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "单发多框检测（SSD）",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            5
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1Db4y1C71g",
+        "notebook_video": "",
+        "qa_video": ""
+    },    
+    {
+        "title": "你只看一次（YOLO）",
+        "day_break": false,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            3
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1Db4y1C71g",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "多尺度物体检测实现",
+        "day_break": true,
+        "book": "chapter_computer-vision/multiscale-object-detection.html",
+        "slides": [
+            "part-0.pdf",
+            0
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1ZX4y1c7Sw?p=1",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "SSD 实现",
         "day_break": false,
         "book": "chapter_computer-vision/ssd.html",
         "slides": [
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1ZX4y1c7Sw?p=2",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Region-based CNNs (R-CNNs)",
-        "day_break": false,
-        "book": "chapter_computer-vision/rcnn.html",
-        "slides": [
-            "part-0.pdf",
-            0
-        ],
-        "slides_video": "",
-        "notebook_video": "",
-        "qa_video": ""
-    },
-    {
-        "title": "Semantic Segmentation and the Dataset",
+        "title": "语义分割",
         "day_break": true,
+        "book": "",
+        "slides": [
+            "part-03.pdf",
+            5
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1BK4y1M7Rd",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "语义分割数据集",
+        "day_break": false,
         "book": "chapter_computer-vision/semantic-segmentation-and-dataset.html",
         "slides": [
             "part-0.pdf",
             0
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1BK4y1M7Rd?p=2",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Transposed Convolution",
+        "title": "转置卷积",
         "day_break": false,
         "book": "chapter_computer-vision/transposed-conv.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            3
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV17o4y1X7Jn/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Fully Convolutional Networks (FCN)",
+        "title": "转置卷积是一种卷积",
         "day_break": false,
+        "book": "chapter_computer-vision/transposed-conv.html",
+        "slides": [
+            "part-03.pdf",
+            8
+        ],
+        "slides_video": "https://www.bilibili.com/video/BV1CM4y1K7r7/",
+        "notebook_video": "",
+        "qa_video": ""
+    },
+    {
+        "title": "全连接卷积神经网络（FCN）",
+        "day_break": true,
         "book": "chapter_computer-vision/fcn.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            2
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1af4y1L7Zu/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
-        "title": "Neural Style Transfer",
+        "title": "样式迁移",
         "day_break": false,
         "book": "chapter_computer-vision/neural-style.html",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            3
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Eh41167GN/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -208,10 +305,10 @@
         "day_break": false,
         "book": "",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-03.pdf",
+            3
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1F64y1x7xP/",
         "notebook_video": "",
         "qa_video": ""
     }

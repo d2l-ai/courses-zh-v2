@@ -2,7 +2,7 @@
 title: 自然语言处理
 ---
 
-7月18日
+8月8日
 
 : Natural Language Processing: Pretraining
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/index.html)
@@ -29,7 +29,7 @@ title: 自然语言处理
   :  &nbsp; 
 
 
-7月24日
+8月14日
 
 : Pretraining word2vec
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/word2vec-pretraining.html)
@@ -56,7 +56,7 @@ title: 自然语言处理
   :  &nbsp; 
 
 
-7月25日
+8月15日
 
 : Bidirectional Encoder Representations from Transformers (BERT)
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/bert.html)
@@ -83,7 +83,7 @@ title: 自然语言处理
   :  &nbsp; 
 
 
-7月31日
+8月21日
 
 : Sentiment Analysis and the Dataset
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html)
@@ -110,7 +110,7 @@ title: 自然语言处理
   :  &nbsp; 
 
 
-8月1日
+8月22日
 
 : Natural Language Inference: Using Attention
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-attention.html)

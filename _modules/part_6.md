@@ -2,7 +2,7 @@
 title: 优化算法
 ---
 
-8月7日
+8月28日
 
 : Optimization Algorithms
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_optimization/index.html)
@@ -41,7 +41,7 @@ title: 优化算法
   :  &nbsp; 
 
 
-8月8日
+8月29日
 
 : Momentum
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_optimization/momentum.html)
@@ -62,7 +62,7 @@ title: 优化算法
   :  &nbsp; 
 
 
-8月14日
+9月4日
 
 : Adadelta
   : [<span class="iconfont icon-xiaoshuo-copy"></span>](https://zh-v2.d2l.ai/chapter_optimization/adadelta.html)

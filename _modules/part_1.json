@@ -64,10 +64,10 @@
         "day_break": true,
         "book": "",
         "slides": [
-            "part-01.pdf",
+            "part-02.pdf",
             5
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV15Q4y1o7vc",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -79,7 +79,7 @@
             "part-02.pdf",
             9
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1L64y1m7Nh",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -91,19 +91,19 @@
             "part-02.pdf",
             7
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1L64y1m7Nh?p=2",
         "notebook_video": "",
         "qa_video": ""
     },
     {
         "title": "填充和步幅",
-        "day_break": false,
+        "day_break": true,
         "book": "chapter_convolutional-neural-networks/padding-and-strides.html",
         "slides": [
             "part-02.pdf",
             8
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Th411U7UN",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -115,7 +115,7 @@
             "part-02.pdf",
             10
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1MB4y1F7of",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -127,7 +127,7 @@
             "part-02.pdf",
             7
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1EV411j7nX",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -139,43 +139,43 @@
             "part-02.pdf",
             6
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1t44y1r7ct/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
         "title": "深度卷积神经网络（AlexNet）",
-        "day_break": false,
+        "day_break": true,
         "book": "chapter_convolutional-modern/alexnet.html",
         "slides": [
             "part-02.pdf",
             13
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1h54y1L7oe/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
         "title": "使用块的网络（VGG）",
-        "day_break": true,
+        "day_break": false,
         "book": "chapter_convolutional-modern/vgg.html",
         "slides": [
             "part-02.pdf",
             7
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Ao4y117Pd/",
         "notebook_video": "",
         "qa_video": ""
     },
     {
         "title": "网络中的网络（NiN）",
-        "day_break": false,
+        "day_break": true,
         "book": "chapter_convolutional-modern/nin.html",
         "slides": [
             "part-02.pdf",
             6
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1Uv411G71b/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -187,7 +187,7 @@
             "part-02.pdf",
             15
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1b5411g7Xo/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -199,7 +199,7 @@
             "part-02.pdf",
             6
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1X44y1r77r/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -211,7 +211,7 @@
             "part-02.pdf",
             9
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1bV41177ap/",
         "notebook_video": "",
         "qa_video": ""
     },
@@ -220,10 +220,10 @@
         "day_break": false,
         "book": "",
         "slides": [
-            "part-0.pdf",
-            0
+            "part-02.pdf",
+            2
         ],
-        "slides_video": "",
+        "slides_video": "https://www.bilibili.com/video/BV1z64y1o7iz/",
         "notebook_video": "",
         "qa_video": ""
     }
