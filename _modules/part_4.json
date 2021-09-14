@@ -4,7 +4,7 @@
         "day_break":true,
         "book":"chapter_attention-mechanisms/nadaraya-waston.html",
         "slides":["part-05.pdf",7],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1264y1i7R1/",
         "notebook_video":"",
         "qa_video":""
     },
@@ -13,7 +13,7 @@
         "day_break":false,
         "book":"chapter_attention-mechanisms/attention-scoring-functions.html",
         "slides":["part-05.pdf",6],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1Tb4y167rb/",
         "notebook_video":"",
         "qa_video":""
     },
@@ -22,7 +22,7 @@
         "day_break":false,
         "book":"chapter_attention-mechanisms/bahdanau-attention.html",
         "slides":["part-05.pdf",4],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1v44y1C7Tg/",
         "notebook_video":"",
         "qa_video":""
     },
@@ -31,16 +31,7 @@
         "day_break":true,
         "book":"chapter_attention-mechanisms/self-attention-and-positional-encoding.html",
         "slides":["part-05.pdf",8],
-        "slides_video":"",
-        "notebook_video":"",
-        "qa_video":""
-    },
-    {
-        "title":"多头注意力",
-        "day_break":false,
-        "book":"chapter_attention-mechanisms/multihead-attention.html",
-        "slides":["part-0.pdf",0],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV19o4y1m7mo/",
         "notebook_video":"",
         "qa_video":""
     },
@@ -49,7 +40,88 @@
         "day_break":false,
         "book":"chapter_attention-mechanisms/transformer.html",
         "slides":["part-05.pdf",10],
-        "slides_video":"",
+        "slides_video":"https://www.bilibili.com/video/BV1Kq4y1H7FL/",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"BERT",
+        "day_break":true,
+        "book":"chapter_natural-language-processing-pretraining/bert.html",
+        "slides":["part-05.pdf",8],
+        "slides_video":"https://www.bilibili.com/video/BV1yU4y1E7Ns/",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"BERT预训练数据集",
+        "day_break":false,
+        "book":"chapter_natural-language-processing-pretraining/bert-dataset.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"https://www.bilibili.com/video/BV1yU4y1E7Ns?p=2",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"预训练BERT",
+        "day_break":false,
+        "book":"chapter_natural-language-processing-pretraining/bert-pretraining.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"https://www.bilibili.com/video/BV1yU4y1E7Ns?p=3",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"微调BERT",
+        "day_break":false,
+        "book":"chapter_natural-language-processing-applications/finetuning-bert.html",
+        "slides":["part-05.pdf",6],
+        "slides_video":"https://www.bilibili.com/video/BV15L4y1v7ts",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"自然语言推理和数据集",
+        "day_break":false,
+        "book":"chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"https://www.bilibili.com/video/BV15L4y1v7ts?p=2",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"自然语言推理：微调BERT",
+        "day_break":false,
+        "book":"chapter_natural-language-processing-applications/natural-language-inference-bert.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"https://www.bilibili.com/video/BV15L4y1v7ts?p=3",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"**竞赛**{: .label  } 目标检测总结",
+        "day_break":false,
+        "book":"",
+        "slides":["part-07.pdf",6],
+        "slides_video":"https://www.bilibili.com/video/BV13b4y1m7y8",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"优化算法",
+        "day_break":true,
+        "book":"chapter_optimization/index.html",
+        "slides":["part-07.pdf",14],
+        "slides_video":"https://www.bilibili.com/video/BV1bP4y1p7Gq",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"课程总结和进阶学习",
+        "day_break":false,
+        "book":"",
+        "slides":["part-07.pdf",11],
+        "slides_video":"https://www.bilibili.com/video/BV1AL4y1Y7gu",
         "notebook_video":"",
         "qa_video":""
     }

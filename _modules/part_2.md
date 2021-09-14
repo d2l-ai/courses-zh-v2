@@ -28,11 +28,11 @@ title: 计算机视觉
 
 6月12日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 6月13日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 6月19日
 

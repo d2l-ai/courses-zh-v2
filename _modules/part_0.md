@@ -124,11 +124,11 @@ title: 深度学习基础
 
 4月3日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 4月4日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 4月10日
 

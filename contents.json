@@ -126,6 +126,24 @@
         "qa_video":""
     },
     {
+        "title":"The D2L APIs",
+        "day_break":false,
+        "book":"chapter_linear-networks/api.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"Synthetic Regression Data",
+        "day_break":false,
+        "book":"chapter_linear-networks/synthetic-regression-data.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
         "title":"Linear Regression Implementation from Scratch",
         "day_break":false,
         "book":"chapter_linear-networks/linear-regression-scratch.html",
@@ -162,7 +180,16 @@
         "qa_video":""
     },
     {
-        "title":"Implementation of Softmax Regression from Scratch",
+        "title":"The Base Classification Model",
+        "day_break":false,
+        "book":"chapter_linear-networks/classification.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"Softmax Regression Implementation from Scratch",
         "day_break":false,
         "book":"chapter_linear-networks/softmax-regression-scratch.html",
         "slides":["part-0.pdf",0],
@@ -198,7 +225,7 @@
         "qa_video":""
     },
     {
-        "title":"Implementation of Multilayer Perceptrons from Scratch",
+        "title":"Multilayer Perceptron Implementation from Scratch",
         "day_break":false,
         "book":"chapter_multilayer-perceptrons/mlp-scratch.html",
         "slides":["part-0.pdf",0],
@@ -351,7 +378,7 @@
         "qa_video":""
     },
     {
-        "title":"From Fully-Connected Layers to Convolutions",
+        "title":"From Fully Connected Layers to Convolutions",
         "day_break":false,
         "book":"chapter_convolutional-neural-networks/why-conv.html",
         "slides":["part-0.pdf",0],
@@ -504,7 +531,7 @@
         "qa_video":""
     },
     {
-        "title":"Language Models and the Dataset",
+        "title":"The Language Model Dataset",
         "day_break":false,
         "book":"chapter_recurrent-neural-networks/language-models-and-dataset.html",
         "slides":["part-0.pdf",0],
@@ -522,7 +549,7 @@
         "qa_video":""
     },
     {
-        "title":"Implementation of Recurrent Neural Networks from Scratch",
+        "title":"Recurrent Neural Network Implementation from Scratch",
         "day_break":false,
         "book":"chapter_recurrent-neural-networks/rnn-scratch.html",
         "slides":["part-0.pdf",0],
@@ -1080,7 +1107,7 @@
         "qa_video":""
     },
     {
-        "title":"Finding Synonyms and Analogies",
+        "title":"Word Similarity and Analogy",
         "day_break":false,
         "book":"chapter_natural-language-processing-pretraining/similarity-analogy.html",
         "slides":["part-0.pdf",0],
@@ -1479,6 +1506,15 @@
         "title":"Contributing to This Book",
         "day_break":false,
         "book":"chapter_appendix-tools-for-deep-learning/contributing.html",
+        "slides":["part-0.pdf",0],
+        "slides_video":"",
+        "notebook_video":"",
+        "qa_video":""
+    },
+    {
+        "title":"Utility Functions and Classes",
+        "day_break":false,
+        "book":"chapter_appendix-tools-for-deep-learning/utils.html",
         "slides":["part-0.pdf",0],
         "slides_video":"",
         "notebook_video":"",

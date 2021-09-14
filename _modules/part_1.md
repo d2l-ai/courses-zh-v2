@@ -37,23 +37,23 @@ title: 卷积神经网络
 
 4月25日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 5月1日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 5月2日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 5月8日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 5月9日
 
-: **长假无课**{: .label .label-green }
+: **休课**{: .label .label-green }
 
 5月15日
 
